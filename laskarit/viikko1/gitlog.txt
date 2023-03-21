@@ -1,0 +1,85 @@
+commit e07ea9378804ee94cbdc0aabbaf434c029b1e87d
+Author: Juho Räsänen <juho.rasanen@setuppi.fi>
+Date:   Tue Mar 22 19:57:53 2022 +0200
+
+    muutos
+
+ tiedostoja/file2.txt             | 0
+ tiedostoja/{file1.txt => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8fd69f2dac41ae66e927b9ecb0772e0061f19034
+Author: Juho Räsänen <juho.rasanen@setuppi.fi>
+Date:   Tue Mar 22 19:54:34 2022 +0200
+
+    files
+
+ tiedostoja/file1.txt | 0
+ tiedostoja/file2.txt | 0
+ tiedostoja/file3.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 270ff495211954732477da8a3ed9fe9863dddb95
+Author: Juho Räsänen <juho.rasanen@setuppi.fi>
+Date:   Tue Mar 22 19:50:01 2022 +0200
+
+    jotain muutoksia
+
+ eka.txt    | 4 ++++
+ kolmas.txt | 1 +
+ 2 files changed, 5 insertions(+)
+
+commit da71e5be66406a7808ad63a9d5c4cf195c73f4fa
+Author: Juho Räsänen <juho.rasanen@setuppi.fi>
+Date:   Tue Mar 22 19:47:37 2022 +0200
+
+    muutos
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9dc10969f11cfe1113a7bbd715f40070514649a7
+Author: Juho Räsänen <juho.rasanen@setuppi.fi>
+Date:   Tue Mar 22 19:46:58 2022 +0200
+
+    poisto
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 5c43422d93d38e8e2c6222b3f237fdfc38b21e7c
+Author: Juho Räsänen <juho.rasanen@setuppi.fi>
+Date:   Tue Mar 22 19:42:22 2022 +0200
+
+    veljekset
+
+ tiedosto.txt | 5 +----
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+
+commit 2098cbdff0c759eacdae72f2492de0fca9f4cbbc
+Author: Juho Räsänen <juho.rasanen@setuppi.fi>
+Date:   Tue Mar 22 19:40:59 2022 +0200
+
+    kalevala
+
+ tiedosto.txt | 19 ++++++++++++++++++-
+ 1 file changed, 18 insertions(+), 1 deletion(-)
+
+commit 74a93a3584f2b802952d17499bfdba15e0e33511
+Author: Juho Räsänen <juho.rasanen@setuppi.fi>
+Date:   Tue Mar 22 19:39:20 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 7d93dcf67f39729503dc783f8639da3348a91113
+Author: Juho Räsänen <juho.rasanen@setuppi.fi>
+Date:   Tue Mar 22 19:38:07 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
